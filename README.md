@@ -6,7 +6,7 @@ Corresponding lesson: [Logistic Regression and Classification](http://caispluspl
 
 ### Files:
 * **Logistic-Regression-Lesson-Plan.ipynb:** Logistic Regression on Pima Diabetes dataset (Incomplete)
-* **Logistic-Regression-Lesson-Plan.ipynb:** Completely filled in version of Pima Diabetes logistic regression (will be posted after workshop)
+* **Logistic-Regression-Lesson-Plan-Complete.ipynb:** Completely filled in version of Pima Diabetes logistic regression (will be posted after workshop)
 * **MNIST-Log-Reg-Incomplete.ipynb:** For members to fill in (logistic regression on MNIST handwritten digits)
 * **MNIST-Log-Reg-Complete.ipynb:** Filled in MNIST solution (will be posted after workshop)
 * **mnist.pkl.gz:** MNIST (handwritten digits) data
