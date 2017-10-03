@@ -13,8 +13,8 @@ Corresponding lesson: [Logistic Regression and Classification](http://caispluspl
 
 
 ### Before the workshop:
-1. Activate your conda environment: source activate caispp (for Mac/Linux), or activate caispp (for Windows)
-2. Run: conda install nb_conda
-3. Run: pip install matplotlib, pip install pandas
-4. Reactivate environment: source deactivate caispp, source activate caispp
-5. Run: jupyter notebook
+1. Activate your conda environment: `source activate caispp` (for Mac/Linux), or `activate caispp` (for Windows)
+2. Run: `conda install nb_conda`
+3. Run: `pip install matplotlib`, `pip install pandas`
+4. Reactivate environment: `source deactivate caispp`, `source activate caispp`
+5. Run: `jupyter notebook`
