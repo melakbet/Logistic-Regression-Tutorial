@@ -13,7 +13,7 @@ Corresponding lesson: [Logistic Regression and Classification](http://caispluspl
 
 
 ### Before the workshop:
-0. Clone this repo locally
+0. Clone this repo locally: `cd` into your working directory, then run `git clone https://github.com/caisplusplus/Logistic-Regression-Tutorial.git`
 1. Activate your conda environment: `source activate caispp` (for Mac/Linux), or `activate caispp` (for Windows)
 2. Run: `conda install nb_conda`
 3. Run: `pip install matplotlib`, `pip install pandas`
