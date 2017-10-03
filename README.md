@@ -13,10 +13,11 @@ Corresponding lesson: [Logistic Regression and Classification](http://caispluspl
 
 
 ### Before the workshop:
-0. Clone this repo locally: `cd` into your working directory, then run `git clone https://github.com/caisplusplus/Logistic-Regression-Tutorial.git`
-1. Activate your conda environment: `source activate caispp` (for Mac/Linux), or `activate caispp` (for Windows)
-2. Run: `conda install nb_conda`
-3. Run: `pip install matplotlib`, `pip install pandas`
-4. Reactivate environment: `source deactivate caispp`, `source activate caispp`
-5. Run: `jupyter notebook`
-6. In the notebook: Kernel --> Change Kernel --> caispp
+1. Clone this repo locally: `cd` into your working directory, then run `git clone https://github.com/caisplusplus/Logistic-Regression-Tutorial.git`
+2. Activate your conda environment: `source activate caispp` (for Mac/Linux), or `activate caispp` (for Windows)
+3. Run: `conda install nb_conda`
+4. Run: `pip install matplotlib`, `pip install pandas`
+5. Reactivate environment: `source deactivate caispp`, `source activate caispp`
+6. Run: `jupyter notebook`
+7. Open: Logistic-Regression-Lesson-Plan.ipynb
+8. In the notebook: Kernel --> Change Kernel --> caispp
