@@ -18,3 +18,4 @@ Corresponding lesson: [Logistic Regression and Classification](http://caispluspl
 3. Run: `pip install matplotlib`, `pip install pandas`
 4. Reactivate environment: `source deactivate caispp`, `source activate caispp`
 5. Run: `jupyter notebook`
+6. In the notebook: Kernel --> Change Kernel --> caispp
